@@ -8,6 +8,5 @@
 * Les variables d'environnement
 * Les tabelaux
 * Les itérations : ```for, foreach, while```
-
->[Page démo](https://giusmili.github.io/PHP-started-2425/)
+* [Page démo](https://giusmili.github.io/PHP-started-2425/)
 [![forthebadge](https://forthebadge.com/images/badges/license-mit.svg)](https://forthebadge.com)
