@@ -1,6 +1,6 @@
 # 🚀PHP Get started
 
->Introduction à php : les bases
+## Introduction à php : les bases
 ![cover](./asset/cover.svg)
 
 * Transformer un fichier static en dynamique
