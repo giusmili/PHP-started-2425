@@ -22,6 +22,10 @@ img{
 *{
 	box-sizing: border-box;
 }
+a{
+    color: #ccc;
+    text-decoration: none;
+}
 /* theme css */
 header{
     background: #2980b9;

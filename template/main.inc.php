@@ -8,6 +8,12 @@
                 <p>
 					Votre répertoire il est dans ce chemin : <?= $path ?>
 				</p>
+                <ul>
+                <?php
+                # test php
+                    include_once "demo_php.php";
+                ?>
+                </ul>
             </figcaption>
         </figure>
 		<section>
