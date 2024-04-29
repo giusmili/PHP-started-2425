@@ -49,7 +49,7 @@
 	<!-- <pre>
 	</pre> -->
 	<footer>
-		<p>&copy; - MIT - <?=  $date_footer->format("Y")?></p>
+		<p>&copy; - MIT - <?= $date_footer->format("Y")?></p>
 	</footer>
     <pre>
         <?php
