@@ -35,10 +35,10 @@
 
        foreach (lang as $key => $value) {
               if($key == "Réf"){
-                    print "<li><strong>".$key."</strong> <a href=".$value.">Wikipedia</a></li>";
+                    print "<li><strong>".$key."</strong> : <a href=".$value.">Wikipedia</a></li>";
               }
               else{
-                      print "<li><strong>".$key."</strong> :  ".$value."</li>";
+                      print "<li><strong>".$key."</strong> : ".$value."</li>";
               }
      
        }
