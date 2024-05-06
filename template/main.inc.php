@@ -26,4 +26,10 @@
 			</p>
 			<?= $sign ?>
 		</section>
+        <section>
+            <h2>PHP : langage de programmation</h2>
+            <ul>
+                <?php include_once "./model/bdd.inc.php"; ?>
+            </ul>
+        </section>
 	</main>

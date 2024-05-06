@@ -1,7 +1,7 @@
 <?php
-# config
+   # config
    include_once __DIR__."/model/config.inc.php";
-# head
+   # head
    include_once __DIR__."/template/head.inc.php";
 
 ?>
@@ -17,6 +17,7 @@
     include_once __DIR__."/template/main.inc.php";
     # footer
     include_once __DIR__."/template/footer.inc.php";
+    
    
 ?>
 
