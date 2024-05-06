@@ -26,6 +26,9 @@ a{
     color: #ccc;
     text-decoration: none;
 }
+ul, ol, li{
+    list-style: none;
+}
 /* theme css */
 header{
     background: #2980b9;
@@ -48,6 +51,14 @@ ul li:nth-child(2n+1){
     background: #222;
     color: #fff;
     padding: 0.5rem;
+}
+ul li:nth-child(3){
+    background-color: #fff;
+    
+}
+ul li:nth-child(3) a{
+    color: #222;
+    font-weight: 200;
 }
 main figure{
     max-width: 80rem;
