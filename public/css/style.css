@@ -47,11 +47,11 @@ p,ul{
     border: solid 0.1rem #ccc;
     padding: 1.0rem;
 }
-ul li:nth-child(2n+1){
+/* ul li:nth-child(2n+1){
     background: #222;
     color: #fff;
     padding: 0.5rem;
-}
+} */
 ul li:nth-child(3){
     background-color: #fff;
     

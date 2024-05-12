@@ -1,7 +1,7 @@
 # 🚀PHP Get started
 
 ## Introduction à php : les bases
-![cover](./asset/cover.svg)
+![cover](./public/asset/cover.svg)
 
 * Transformer un fichier static en dynamique
 * Déclaration des variables
