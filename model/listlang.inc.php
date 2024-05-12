@@ -24,3 +24,14 @@
    }
 
    $articles = article();
+
+   /* exemple de test pour itérer le tableau */
+
+ /* foreach ($articles as $article) {
+    $titre = strip_tags($article["title"]);
+    $contenu = strip_tags($article["content"]);
+    $lien = $article["link"];
+    
+    print $titre . "\n".$contenu . "\nn".$lien;
+    
+  } */
