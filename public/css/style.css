@@ -5,6 +5,9 @@ html{
 body{
 	font: 1.6rem 'Roboto Slab',sans-serif; /* 16px 62.5% => 1.000*/
 	margin: 0;
+    display: grid;
+    grid-template-rows: auto fr auto;
+    height: 100svh;
 }
 h1,h2,h3,h4,ul,ol,p{
 	margin: 0;

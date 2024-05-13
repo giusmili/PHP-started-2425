@@ -11,6 +11,6 @@
     ];
     
     foreach (langs as $key => $value) {
-       print "<li>$key : $value</li>";
+       print "<li><strong>$key</strong> : $value</li>";
     }
     
