@@ -3,7 +3,7 @@
             <img src="./public/asset/cover.svg" alt="cover php">
             <figcaption>
                 <h2>
-                    PHP version 8
+                    PHP version <?= $versionPHP ?>
                 </h2>
 				
             </figcaption>
@@ -11,7 +11,7 @@
 		<section>
 			<h2>Nous sommes le : <?= $date_hours->format("d-m-Y")?></h2>
 			<p>
-				Votre navigateur est : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:84.0) Gecko/20100101 Firefox/84.0<br>
+				Votre navigateur est : <?= $navigator ?><br>
 				Votre adress IP est le :127.0.0.1
 				<br>Signature serveur
 				
