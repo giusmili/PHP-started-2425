@@ -10,6 +10,8 @@
     require_once __DIR__ ."/include/main.inc.php";
    
     require_once __DIR__ ."/include/footer.inc.php";
+
+    
     
     ?>
 </body>
