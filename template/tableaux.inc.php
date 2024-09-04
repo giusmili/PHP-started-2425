@@ -13,7 +13,7 @@
     const User = [
         "first_name"=>"Doe",
         "last_name"=>"John",
-        "location"=>["City"=>"Paris","Country"=>"France"]
+            "location"=>["City"=>"Paris","Country"=>"France"]
         ];
     
 
