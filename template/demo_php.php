@@ -13,7 +13,6 @@
        #itération
      /*   for($i = 0; $i < count($_tab); $i++){
               print ($i+1)." ".$_tab[$i]."\n";
-       }
        $i = 0;
     
        while($i < count($_tab)){
