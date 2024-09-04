@@ -9,23 +9,19 @@
     <link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
     <link rel="manifest" href="favicon/site.webmanifest">
-    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./public/css/style.css">
 </head>
-<!-- section head -->
-
-
 <body>
-	<!-- section head -->
+	<!--cours https://hackmd.io/iNktz6XzRyu7gGmKvPpXfQ?view-->
 	<header>
 		<h1>
 			🚀 
 			PHP started version 8
 		</h1>
 	</header>
-	<!-- section body -->
 	<main>
         <figure>
-            <img src="./asset/cover.svg" alt="cover php">
+            <img src="./public//asset/cover.svg" alt="cover php">
             <figcaption>
                 <h2>
                     PHP version 8
@@ -58,9 +54,8 @@
 		</section>
 		
 	</main>
-	<!-- end main -->
-
-	<!-- section footer -->
+	<!-- <pre>
+	</pre> -->
 	<footer>
 		<p>&copy; - MIT - 2021</p>
 	</footer>

@@ -5,6 +5,9 @@ html{
 body{
 	font: 1.6rem 'Roboto Slab',sans-serif; /* 16px 62.5% => 1.000*/
 	margin: 0;
+    display: grid;
+    grid-template-rows: auto fr auto;
+    height: 100svh;
 }
 h1,h2,h3,h4,ul,ol,p{
 	margin: 0;
@@ -21,6 +24,13 @@ img{
 }
 *{
 	box-sizing: border-box;
+}
+a{
+    color: #ccc;
+    text-decoration: none;
+}
+ul, ol, li{
+    list-style: none;
 }
 /* theme css */
 header{
@@ -40,10 +50,18 @@ p,ul{
     border: solid 0.1rem #ccc;
     padding: 1.0rem;
 }
-ul li:nth-child(2n+1){
+/* ul li:nth-child(2n+1){
     background: #222;
     color: #fff;
     padding: 0.5rem;
+} */
+ul li:nth-child(3){
+    background-color: #fff;
+    
+}
+ul li:nth-child(3) a{
+    color: #222;
+    font-weight: 200;
 }
 main figure{
     max-width: 80rem;
@@ -71,6 +89,9 @@ section > p {
 }
 section address{
     padding: 0 1.0rem;
+}
+address{
+    color: #ccc;
 }
 footer p{
     border: 0;
